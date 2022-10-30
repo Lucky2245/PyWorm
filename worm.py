@@ -1,5 +1,4 @@
 import os
-import subprocess
 if os.path.exists("file.bat"):
   print("Run the batch file: file.bat")
 else:
